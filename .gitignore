@@ -1,0 +1,42 @@
+# Unity-generated folders
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/MemoryCaptures/
+
+# Build results
+/Build/
+/Builds/
+
+# User-specific files
+/UserSettings/
+/.vscode/
+/.idea/
+/*.csproj
+/*.sln
+/*.userprefs
+
+# Crash reports and debug logs
+sysinfo.txt
+*.stacktrace
+
+# Cache
+/Assets/AssetStoreTools*
+
+# Auto-generated files
+*.pidb
+*.booproj
+*.swp
+*.bak
+*.idb
+.idea
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# Unity cloud build
+/UnityCloudBuildManifest.json
